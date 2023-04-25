@@ -22,12 +22,12 @@ Wrote code to analyze heart disease dataset using clustering
 # Lab 7: Dimensionality Reduction
 
 Wrote code to reduce heart disease dataset dimensionality and analyze its performance
-# Lab 8: PageRank
+# Lab 8: Recommender System
 
-Wrote code emulating Google's PankRank algorithm
+Wrote code to study how to do user-based collaborative filtering and item-based collaborative filtering
 # Lab 9: Document Classification
 
-Wrote code classifying BBC news articles
+Wrote code classifying and clustering BBC news articles
 # Lab 10: Final Project
 
 TBA
