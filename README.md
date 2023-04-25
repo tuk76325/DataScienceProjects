@@ -28,6 +28,6 @@ Wrote code to study how to do user-based collaborative filtering and item-based 
 # Lab 9: Document Classification
 
 Wrote code classifying and clustering BBC news articles
-# Lab 10: Final Project
+# Lab 10: Fully Connected Neural Network
 
-TBA
+Wrote code to analyze and visualize the accuracy and loss functions of fully connected neural networks
